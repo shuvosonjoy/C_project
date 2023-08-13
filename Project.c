@@ -54,7 +54,7 @@ int main()
     printf("\n\n\n\n\t\t\t\t****************************\n");
     printf("\t\t\t\tWelcome to Project CSE-1316");
     printf("\n\t\t\t\t****************************");
-    printf("\n\t\t\t\t      Team-Defenders");
+    printf("\n\t\t\t\t   Shuvo Sonjoy ");
     printf("\n\t\t\t\t---------------------------\n\n\n");
 
     printf("\n\t\t\t\t1. Signup as Admin\n\t\t\t\t2. Admin Login\n\t\t\t\t3. Exit\n\n\n\n\nEnter Your choice: ");
